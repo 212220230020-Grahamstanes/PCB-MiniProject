@@ -14,7 +14,7 @@ To design and develop a PCB board for any specific application.
 
 # G-CODE:
 
-# Engraving
+### Engraving
 ```
 %
 ( CopperCAM - 29/07/2019 / ISO-Mill Output )
@@ -494,7 +494,7 @@ M05
 M02
 %
 ```
-# Drill 0.8
+### Drill 0.8
 ```
 %
 ( CopperCAM - 29/07/2019 / ISO-Mill Output )
@@ -548,7 +548,7 @@ M02
 %
 ```
 
-# Drill 1
+### Drill 1
 ```
 %
 ( CopperCAM - 29/07/2019 / ISO-Mill Output )
@@ -617,7 +617,7 @@ M05
 M02
 %
 ```
-# Cutting Layer
+### Cutting Layer
 ```
 %
 ( CopperCAM - 29/07/2019 / ISO-Mill Output )
@@ -642,18 +642,17 @@ M05
 M02
 %
 ```
-# SCHEMATIC LAYOUT
+### SCHEMATIC LAYOUT
 ![Schematic](https://github.com/212220230020-Grahamstanes/PCB-MiniProject/assets/75235150/02a35200-0d8f-4d8b-ac00-da78640bf676)
 
-# PCB LAYOUT
+### PCB LAYOUT
 ![PCB](https://github.com/212220230020-Grahamstanes/PCB-MiniProject/assets/75235150/a1768200-f98e-4f63-a969-6538c68bad34)
 
-# COPPERCAM OUTPUT
+### COPPERCAM OUTPUT
 ![coppercam](https://github.com/212220230020-Grahamstanes/PCB-MiniProject/assets/75235150/c830a7f0-a570-47f6-9e26-954e5805a74b)
 
-# MANUFACTURED PCB
-![Uploading WhatsApp Image 2023-06-21 at 11.46.13.jpg…]()
-
+### MANUFACTURED PCB
+![WhatsApp Image 2023-06-21 at 11 46 13](https://github.com/212220230020-Grahamstanes/PCB-MiniProject/assets/75235150/e217b2bc-e7fa-4c50-ae75-e1af4fdc88d3)
 
 
 # RESULT
